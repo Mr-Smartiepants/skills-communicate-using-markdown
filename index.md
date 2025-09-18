@@ -4,6 +4,7 @@
 
 ###### This is an `<h6>` header, which is the smallest
 
+
 # Image of a Cat
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
@@ -15,3 +16,5 @@ var myVar = "Hello, world!";
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
+=======
+
